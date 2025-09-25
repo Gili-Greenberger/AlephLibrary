@@ -1,0 +1,36 @@
+# Build artifacts
+**/bin/
+**/obj/
+**/publish/
+*.cache/
+*.lock.json
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local DB files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Publish profiles (optional)
+**/Properties/PublishProfiles/*

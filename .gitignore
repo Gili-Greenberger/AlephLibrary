@@ -1,0 +1,29 @@
+# Build artifacts
+**/bin/
+**/obj/
+**/publish/
+*.cache/
+*.lock.json
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local DB files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+

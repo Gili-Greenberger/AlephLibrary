@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.95
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephLibrary.Core", "src\AlephLibrary.Core\AlephLibrary.Core.csproj", "{6B0B79DE-D3F3-4211-84A2-BA7F98FDBAB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephLibrary.Data", "src\AlephLibrary.Data\AlephLibrary.Data.csproj", "{3D88E858-0D82-4075-B24E-9F7E9A74D1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephLibrary.Services", "src\AlephLibrary.Services\AlephLibrary.Services.csproj", "{3B6081FA-37BC-467C-8AD3-926A72360445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlephLibrary.Api", "src\AlephLibrary.Api\AlephLibrary.Api.csproj", "{17F5CF8F-7BB1-4338-90E0-2C82361DB6E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0B79DE-D3F3-4211-84A2-BA7F98FDBAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0B79DE-D3F3-4211-84A2-BA7F98FDBAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0B79DE-D3F3-4211-84A2-BA7F98FDBAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0B79DE-D3F3-4211-84A2-BA7F98FDBAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D88E858-0D82-4075-B24E-9F7E9A74D1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D88E858-0D82-4075-B24E-9F7E9A74D1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D88E858-0D82-4075-B24E-9F7E9A74D1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D88E858-0D82-4075-B24E-9F7E9A74D1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6081FA-37BC-467C-8AD3-926A72360445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6081FA-37BC-467C-8AD3-926A72360445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6081FA-37BC-467C-8AD3-926A72360445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6081FA-37BC-467C-8AD3-926A72360445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F5CF8F-7BB1-4338-90E0-2C82361DB6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F5CF8F-7BB1-4338-90E0-2C82361DB6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F5CF8F-7BB1-4338-90E0-2C82361DB6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F5CF8F-7BB1-4338-90E0-2C82361DB6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
